@@ -24,7 +24,7 @@ Split and merge the image using cv2.split(hsv) and cv2.merge([h,s,v])
 Output the image using cv2.imshow("OUTPUT", image)
 
 ## Program:
-Developed By: **SRIJITH R**
+Developed By: ** SRIJITH R**
 </br>
 Register Number: **212221240054**
 ### i) Convert BGR and RGB to HSV and GRAY
@@ -143,7 +143,7 @@ RED Component   |  GREEN Component      |  BLUE Component       |  MERGED Image 
 
 HUE Component        |  SATURATION Component       |  VALUE Component    |  MERGED Image       |
 :-------------------:|:---------------------------:|:-------------------:|:-------------------:|
-<img width = "500" src="./5_HUE.png"> | <img width = "500" src="./5_SATURATION.png"> | <img width = "500" src="./5_VALUE.png"> | <img width = "500" src="./5_MERGED_HSV.png"> |
+<img width = "500" src="./Output5/BLUE MODEL _screenshot_29.03.2023.png"> | <img width = "500" src="./Output5/GREEN MODEL_screenshot_29.03.2023.png"> | <img width = "500" src="./Output5/RED MODEL_screenshot_29.03.2023.png"> | <img width = "500" src="./Output5/MERGED IMAGE_screenshot_29.03.2023.png"> |
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.

@@ -129,7 +129,7 @@ Original - HSV                              |  HSV to RGB                       
 
 Original - RGB |  RGB to YCrCb                                | BGR to YCrCb                                 |               
 :------------------------------------------:|:------------------------------------------:|:--------------------------------------------:
-<img width = "350" src="./Output3/RGB_screenshot_29.03.2023.png"> | <img width = "350" src="https://github.com/srijithmass/Color-Conversion/blob/main/Output3/BGRtoYCrCb_screenshot_29.03.2023.png?raw=true"> | <img width = "350" src="./Output3/BGRtoYCrCb_screenshot_29.03.2023.png"> |
+<img width = "350" src="./Output3/RGB_screenshot_29.03.2023.png"> | <img width = "350" src="https://raw.githubusercontent.com/srijithmass/Color-Conversion/main/Output3/BGRtoYCrCb_screenshot_29.03.2023.png"> | <img width = "350" src="./Output3/BGRtoYCrCb_screenshot_29.03.2023.png"> |
 
 
 
